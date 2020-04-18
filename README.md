@@ -169,4 +169,4 @@ Give the credentials. You will be logged in.
 
 MIT License
 
-Copyright (c) 2020, <a href="https://twitter.com/rediandev" target="_blank">Redian MArku</a>. All rights reserved.
+Copyright (c) 2020, <a href="https://twitter.com/yathinbabu" target="_blank">Yathin Babu</a>. All rights reserved.
