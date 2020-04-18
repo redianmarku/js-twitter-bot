@@ -1,7 +1,7 @@
 {
-  "name": "100daysofcode-twitter-bot",
+  "name": "js-twitter-bot",
   "version": "1.0.0",
-  "description": "Follow: https://twitter.com/xaelbot",
+  "description": "Follow: https://twitter.com/rediandev",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yathinbabux/100DaysOfCode-twitter-bot.git"
+    "url": "git+https://github.com/redianmarku/js-twitter-bot.git"
   },
   "author": "Redian Marku",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yathinbabux/100DaysOfCode-twitter-bot/issues"
+    "url": "https://github.com/redianmarku/js-twitter-bot/issues"
   },
-  "homepage": "https://github.com/yathinbabux/100DaysOfCode-twitter-bot#readme",
+  "homepage": "https://github.com/redianmarku/js-twitter-bot#readme",
   "dependencies": {
     "twit": "^2.2.11"
   }
