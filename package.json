@@ -1,0 +1,22 @@
+{
+  "name": "100daysofcode-twitter-bot",
+  "version": "1.0.0",
+  "description": "Follow: https://twitter.com/xaelbot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yathinbabux/100DaysOfCode-twitter-bot.git"
+  },
+  "author": "Redian Marku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yathinbabux/100DaysOfCode-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/yathinbabux/100DaysOfCode-twitter-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
