@@ -1,8 +1,7 @@
-# 100DaysOfCode Twitter Bot
+# Javascript Twitter Bot by Redian Marku
 
-Follow: https://twitter.com/xaelbot
+Follow: https://twitter.com/rediandev
 
-![Image of Xael bot] (https://user-images.githubusercontent.com/57559448/76494465-ee88d300-645a-11ea-8635-0606466833da.png)
 
 ## Features
 
@@ -169,4 +168,4 @@ Give the credentials. You will be logged in.
 
 MIT License
 
-Copyright (c) 2020, <a href="https://twitter.com/yathinbabu" target="_blank">Yathin Babu</a>. All rights reserved.
+Copyright (c) 2020, <a href="https://twitter.com/rediandev" target="_blank">Redian Marku</a>. All rights reserved.
