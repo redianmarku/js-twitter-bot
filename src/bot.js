@@ -17,7 +17,7 @@ var retweet = function() {
     }
     Twitter.get('search/tweets', params, function(err, data) {
       // if there no errors
-        if (!err) {
+        if (!err && data.statuses.length !== 0) {
           // grab ID of tweet to retweet
             var retweetId = data.statuses[0].id_str;
             // Tell TWITTER to retweet
@@ -32,6 +32,10 @@ var retweet = function() {
                     console.log('Something went wrong while RETWEETING... Duplication maybe...');
                 }
             });
+        }
+        // if no tweets found
+        else if (!err && data.statuses.length === 0) {
+          console.log("No tweets were found...")
         }
         // if unable to Search a tweet
         else {
